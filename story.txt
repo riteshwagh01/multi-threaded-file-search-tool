@@ -1,0 +1,4 @@
+Once upon a time there was a programmer.
+He wanted to learn Python.
+He practiced every day.
+Finally, he became a software engineer.

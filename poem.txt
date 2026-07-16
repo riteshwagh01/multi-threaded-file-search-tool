@@ -1,0 +1,5 @@
+The sun rises in the east.
+Python is easy to learn.
+Birds are flying in the sky.
+Nature is beautiful.
+Python supports threading.

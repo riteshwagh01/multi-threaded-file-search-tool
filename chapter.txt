@@ -1,0 +1,5 @@
+Chapter 1: Introduction
+Java is an object-oriented language.
+C is a procedural language.
+Python is simple and powerful.
+Programming improves problem-solving skills.
