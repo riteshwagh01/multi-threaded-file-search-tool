@@ -1,7 +1,5 @@
 # multi-threaded-file-search-tool
 
-# Multi-Threaded File Search Tool
-
 ## Overview
 
 This project is a Python-based multi-threaded file search tool that searches multiple text files concurrently for a user-specified keyword. It uses regular expressions and ThreadPoolExecutor for efficient parallel processing.
